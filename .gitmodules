@@ -1,8 +1,8 @@
 [submodule "sky-explorer-front"]
-	path = front
+	path = sky-explorer-front
 	url = https://github.com/qbtl/sky-explorer-front.git
 	branch = main
 [submodule "sky-explorer-api"]
-	path = api
+	path = sky-explorer-api
 	url = https://github.com/qbtl/sky-explorer-api.git
 	branch = main
