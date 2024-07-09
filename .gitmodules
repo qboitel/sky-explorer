@@ -1,3 +1,6 @@
 [submodule "sky-explorer-api"]
 	path = sky-explorer-api
 	url = git@github.com:qboitel/sky-explorer-api.git
+[submodule "sky-explorer-front"]
+	path = sky-explorer-front
+	url = git@github.com:qboitel/sky-explorer-front.git
