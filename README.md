@@ -32,7 +32,7 @@ Sky Explorer est une école d'aviation située à Aix les Milles, qui offre des 
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/sky-explorer.git
+   git clone --recursive hhttps://github.com/qboitel/sky-explorer.git
     ```
 
 ### installation sky-explorer-api
