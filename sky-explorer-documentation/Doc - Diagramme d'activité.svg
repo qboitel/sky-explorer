@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Généré par Microsoft Visio, SVG Export Doc - Diagramme d&#39;activité.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="23.8031in" height="22.8858in"
+		viewBox="0 0 1713.83 1647.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1036" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visV14CFF" v:prompt="" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visFlowchartType" v:prompt="" v:val="VT4(CrossFunctional)"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-dasharray:11.25,6.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st4 {font-size:1em}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#ffffff}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Lien" v:index="0"/>
+		<g id="shape31-1" v:mID="31" v:groupContext="shape" transform="translate(839.383,-1595.76)">
+			<title>Nœud initial</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<ellipse cx="17.0079" cy="1630.77" rx="17.0079" ry="17.0079" class="st1"/>
+		</g>
+		<g id="shape34-3" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(839.383,-1616.95)">
+			<title>Lien dynamique</title>
+			<path d="M0 1651.96 L-146.03 1651.96 L-146.03 1657.77" class="st2"/>
+		</g>
+		<g id="shape35-6" v:mID="35" v:groupContext="shape" transform="translate(799.698,-1510.95)">
+			<title>Action</title>
+			<desc>Vérification de la validité des données (créneau horaire, don...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1614.98" width="113.39" height="65.604"/>
+			<rect x="0" y="1582.18" width="113.386" height="65.604" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="15.41" y="1596.98" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de la <tspan
+						x="6.69" dy="1.2em" class="st4">validité des données </tspan><tspan x="14.51" dy="1.2em" class="st4">(créneau horaire, </tspan><tspan
+						x="12.14" dy="1.2em" class="st4">données requises)</tspan></text>		</g>
+		<g id="shape36-12" v:mID="36" v:groupContext="shape" transform="translate(839.383,-1441.7)">
+			<title>Décision</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape37-14" v:mID="37" v:groupContext="shape" transform="translate(948.472,-1394.84)">
+			<title>Action.37</title>
+			<desc>Erreur de réservation Message d&#39;erreur : données invalides</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1622.18" width="113.39" height="51.2039"/>
+			<rect x="0" y="1596.58" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="4.71" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="11.01" dy="1.2em" class="st4">Message d&#39;erreur : </tspan><tspan x="13.05" dy="1.2em" class="st4">données invalides</tspan></text>		</g>
+		<g id="shape38-19" v:mID="38" v:groupContext="shape" transform="translate(799.698,-1360.98)">
+			<title>Action.38</title>
+			<desc>Identification du type de réservation</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1629.38" width="113.39" height="36.8038"/>
+			<rect x="0" y="1610.98" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="4.3" y="1625.78" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Identification du type <tspan
+						x="21.41" dy="1.2em" class="st4">de réservation </tspan> </text>		</g>
+		<g id="shape39-23" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(1005.17,-1445.29)">
+			<title>Lien dynamique.39</title>
+			<path d="M0 1647.03 L0 1634.36 L-131.77 1634.36" class="st5"/>
+		</g>
+		<g id="shape40-26" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(849.305,-1441.7)">
+			<title>Lien dynamique.40</title>
+			<path d="M7.09 1647.78 L7.09 1691.7" class="st5"/>
+		</g>
+		<g id="shape41-29" v:mID="41" v:groupContext="shape" transform="translate(857.764,-1458.14)">
+			<title>Feuille.41</title>
+			<desc>[données invalides]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="16.45" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[données invalides]</text>		</g>
+		<g id="shape45-32" v:mID="45" v:groupContext="shape" transform="translate(741.123,-1425.83)">
+			<title>Feuille.45</title>
+			<desc>[données valides]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="20.98" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[données valides]</text>		</g>
+		<g id="shape46-35" v:mID="46" v:groupContext="shape" transform="translate(839.383,-1308.47)">
+			<title>Décision.46</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape47-37" v:mID="47" v:groupContext="shape" transform="translate(849.26,-1324.91)">
+			<title>Feuille.47</title>
+			<desc>[formation]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="35.64" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[formation]</text>		</g>
+		<g id="shape48-40" v:mID="48" v:groupContext="shape" transform="translate(745.84,-1324.91)">
+			<title>Feuille.48</title>
+			<desc>[loisir]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="48.37" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[loisir]</text>		</g>
+		<g id="shape49-43" v:mID="49" v:groupContext="shape" transform="translate(956.976,-1246.11)">
+			<title>Action.49</title>
+			<desc>Vérification de validité de la licence médicale et de vol pou...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="110.551" cy="1622.18" width="221.11" height="51.2039"/>
+			<rect x="0" y="1596.58" width="221.102" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="24.25" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de validité de la licence <tspan
+						x="7.15" dy="1.2em" class="st4">médicale et de vol pour le créneau horaire </tspan><tspan x="39.28"
+						dy="1.2em" class="st4">du formateur et de l&#39;étudiant</tspan></text>		</g>
+		<g id="shape50-48" v:mID="50" v:groupContext="shape" v:layerMember="0" transform="translate(1067.53,-1297.31)">
+			<title>Lien dynamique.50</title>
+			<path d="M0 1647.78 L0 1619.61 L-194.13 1619.61" class="st5"/>
+		</g>
+		<g id="shape51-51" v:mID="51" v:groupContext="shape" transform="translate(1050.52,-1187.33)">
+			<title>Décision.51</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape52-53" v:mID="52" v:groupContext="shape" transform="translate(1044.85,-1206.61)">
+			<title>Feuille.52</title>
+			<desc>[invalide]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="41.09" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[invalide]</text>		</g>
+		<g id="shape53-56" v:mID="53" v:groupContext="shape" transform="translate(983.906,-1174.58)">
+			<title>Feuille.53</title>
+			<desc>[valide]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="45.62" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[valide]</text>		</g>
+		<g id="shape54-59" v:mID="54" v:groupContext="shape" transform="translate(1203.59,-1115.72)">
+			<title>Action.54</title>
+			<desc>Erreur de réservation Message d&#39;erreur : Licence médicale ou ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1614.98" width="206.93" height="65.604"/>
+			<rect x="0" y="1582.18" width="206.929" height="65.604" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1596.98" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="7.21" dy="1.2em" class="st4">Message d&#39;erreur : Licence médicale ou </tspan><tspan x="10.28"
+						dy="1.2em" class="st4">licence de vol invalide pour le créneau </tspan><tspan x="85.73" dy="1.2em"
+						class="st4">horaire</tspan></text>		</g>
+		<g id="shape56-65" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(1307.06,-1181.32)">
+			<title>Lien dynamique.56</title>
+			<path d="M0 1647.78 L0 1624.76 L-222.52 1624.76" class="st5"/>
+		</g>
+		<g id="shape57-68" v:mID="57" v:groupContext="shape" transform="translate(961.228,-1125.68)">
+			<title>Action.57</title>
+			<desc>Vérification de la disponibilité de l&#39;appareil pour le crénea...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.299" cy="1629.38" width="212.6" height="36.8038"/>
+			<rect x="0" y="1610.98" width="212.598" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="26.17" y="1625.78" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de la disponibilité de <tspan
+						x="24.85" dy="1.2em" class="st4">l&#39;appareil pour le créneau horaire</tspan></text>		</g>
+		<g id="shape58-72" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(1060.44,-1221.35)">
+			<title>Lien dynamique.58</title>
+			<path d="M7.09 1647.78 L7.09 1623.01" class="st5"/>
+		</g>
+		<g id="shape59-75" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(1074.61,-1187.33)">
+			<title>Lien dynamique.59</title>
+			<path d="M-7.09 1647.78 L-7.09 1672.62" class="st5"/>
+		</g>
+		<g id="shape61-78" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(849.305,-1360.98)">
+			<title>Lien dynamique.61</title>
+			<path d="M7.09 1647.78 L7.09 1666.27" class="st5"/>
+		</g>
+		<g id="shape62-81" v:mID="62" v:groupContext="shape" v:layerMember="0" transform="translate(849.305,-1510.95)">
+			<title>Lien dynamique.62</title>
+			<path d="M7.09 1647.78 L7.09 1683.01" class="st5"/>
+		</g>
+		<g id="shape63-84" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(849.305,-1595.76)">
+			<title>Lien dynamique.63</title>
+			<path d="M7.09 1647.78 L7.09 1666.99" class="st5"/>
+		</g>
+		<g id="shape64-87" v:mID="64" v:groupContext="shape" transform="translate(1050.52,-1060.44)">
+			<title>Décision.64</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape66-89" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(1084.54,-1077.45)">
+			<title>Lien dynamique.66</title>
+			<path d="M0 1647.78 L222.52 1647.78 L222.52 1666.2" class="st5"/>
+		</g>
+		<g id="group32-92" transform="translate(623.905,-1593.64)" v:mID="32" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt=""/>
+				<v:ud v:nameU="msvSDCalloutNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-0.28346456692913)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0)):40"/>
+				<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-0.4251968503937)):40"/>
+			</v:userDefs>
+			<title>Remarque</title>
+			<desc>Demande de réservation</desc>
+			<g id="shape32-93" v:mID="32" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="1628.65" width="70.87" height="36.8038"/>
+				<path d="M0 1647.78 L70.87 1647.78 L70.87 1618.02 L62.36 1609.51 L0 1609.51 L0 1647.78 Z" class="st7"/>
+				<path d="M28.62 1647.78 L17.72 1678.39" class="st5"/>
+				<path d="M0 1647.78 L70.87 1647.78 L70.87 1618.02 L62.36 1609.51 L0 1609.51 L0 1647.78" class="st5"/>
+				<text x="4.3" y="1625.05" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Demande de <tspan
+							x="7.64" dy="1.2em" class="st4">réservation</tspan></text>			</g>
+			<g id="shape33-99" v:mID="33" v:groupContext="shape" transform="translate(62.3622,-29.7638)">
+				<title>Feuille.33</title>
+				<v:userDefs>
+					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				</v:userDefs>
+				<path d="M0 1647.78 L8.5 1647.78 L8.5 1648.63 L8.5 1647.78 L0 1639.28 L-0.85 1639.28 L0 1639.28 L0 1647.78 Z"
+						class="st1"/>
+			</g>
+		</g>
+		<g id="shape65-101" v:mID="65" v:groupContext="shape" transform="translate(1203.59,-1007.82)">
+			<title>Action.65</title>
+			<desc>Erreur de réservation Message d&#39;erreur : Appareil indisponibl...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1622.18" width="206.93" height="51.2039"/>
+			<rect x="0" y="1596.58" width="206.929" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="4.82" dy="1.2em" class="st4">Message d&#39;erreur : Appareil indisponible </tspan><tspan x="45.96"
+						dy="1.2em" class="st4">pour le créneau horaire</tspan></text>		</g>
+		<g id="shape68-106" v:mID="68" v:groupContext="shape" transform="translate(518.069,-1076.88)">
+			<title>Feuille.68</title>
+			<desc>[indisponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="30.33" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[indisponible]</text>		</g>
+		<g id="shape69-109" v:mID="69" v:groupContext="shape" transform="translate(965.727,-1043.15)">
+			<title>Feuille.69</title>
+			<desc>[disponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="34.86" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[disponible]</text>		</g>
+		<g id="shape70-112" v:mID="70" v:groupContext="shape" v:layerMember="0" transform="translate(1060.44,-1094.46)">
+			<title>Lien dynamique.70</title>
+			<path d="M7.09 1647.78 L7.09 1616.55" class="st5"/>
+		</g>
+		<g id="shape71-115" v:mID="71" v:groupContext="shape" transform="translate(961.228,-966.807)">
+			<title>Action.71</title>
+			<desc>Vérification de la disponibilité du formateur et de l&#39;étudian...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.299" cy="1622.18" width="212.6" height="51.2039"/>
+			<rect x="0" y="1596.58" width="212.598" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="26" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de la disponibilité du <tspan
+						x="24.05" dy="1.2em" class="st4">formateur et de l&#39;étudiant pour le </tspan><tspan x="67.43" dy="1.2em"
+						class="st4">créneau horaire</tspan></text>		</g>
+		<g id="shape72-120" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(1060.44,-1060.44)">
+			<title>Lien dynamique.72</title>
+			<path d="M7.09 1647.78 L7.09 1690.21" class="st5"/>
+		</g>
+		<g id="shape74-123" v:mID="74" v:groupContext="shape" transform="translate(1050.52,-905.953)">
+			<title>Décision.74</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape75-125" v:mID="75" v:groupContext="shape" transform="translate(1060.14,-924.095)">
+			<title>Feuille.75</title>
+			<desc>[indisponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="30.33" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[indisponible]</text>		</g>
+		<g id="shape76-128" v:mID="76" v:groupContext="shape" transform="translate(968.109,-888.803)">
+			<title>Feuille.76</title>
+			<desc>[disponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="34.86" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[disponible]</text>		</g>
+		<g id="shape77-131" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(1060.44,-939.968)">
+			<title>Lien dynamique.77</title>
+			<path d="M7.09 1647.78 L7.09 1620.94" class="st5"/>
+		</g>
+		<g id="shape79-134" v:mID="79" v:groupContext="shape" transform="translate(1203.59,-851.914)">
+			<title>Action.79</title>
+			<desc>Erreur de réservation Message d&#39;erreur : formateur ou étudian...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1622.18" width="206.93" height="51.2039"/>
+			<rect x="0" y="1596.58" width="206.929" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="23.76" dy="1.2em" class="st4">Message d&#39;erreur : formateur ou </tspan><tspan x="23.89" dy="1.2em"
+						class="st4">étudiant pour le créneau horaire</tspan></text>		</g>
+		<g id="shape80-139" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(1084.54,-922.961)">
+			<title>Lien dynamique.80</title>
+			<path d="M0 1647.78 L222.52 1647.78 L222.52 1667.62" class="st5"/>
+		</g>
+		<g id="shape83-142" v:mID="83" v:groupContext="shape" transform="translate(839.383,-713.764)">
+			<title>Nœud final</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 1630.77 A13.6063 13.6063 -180 1 0 3.4 1630.77 A13.6063 13.6063 -180 1 0 30.61 1630.77 Z" class="st7"/>
+			<path d="M34.02 1630.77 A17.0079 17.0079 -180 1 0 0 1630.77 A17.0079 17.0079 -180 1 0 34.02 1630.77" class="st5"/>
+			<path d="M30.61 1630.77 A13.6063 13.6063 -180 1 0 3.4 1630.77 A13.6063 13.6063 -180 1 0 30.61 1630.77" class="st5"/>
+		</g>
+		<g id="shape84-146" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(1067.53,-905.953)">
+			<title>Lien dynamique.84</title>
+			<path d="M0 1647.78 L0 1664.93 L-186.69 1664.93 L-186.69 1741.32" class="st5"/>
+		</g>
+		<g id="shape86-149" v:mID="86" v:groupContext="shape" transform="translate(523.276,-1246.11)">
+			<title>Action.86</title>
+			<desc>Vérification de validité de la licence médicale et de vol pou...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="110.551" cy="1622.18" width="221.11" height="51.2039"/>
+			<rect x="0" y="1596.58" width="221.102" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="24.25" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de validité de la licence <tspan
+						x="7.15" dy="1.2em" class="st4">médicale et de vol pour le créneau horaire </tspan><tspan x="77.9"
+						dy="1.2em" class="st4">du formateur</tspan></text>		</g>
+		<g id="shape87-154" v:mID="87" v:groupContext="shape" transform="translate(616.819,-1187.33)">
+			<title>Décision.87</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape88-156" v:mID="88" v:groupContext="shape" transform="translate(245.48,-1115.72)">
+			<title>Action.88</title>
+			<desc>Erreur de réservation Message d&#39;erreur : Licence médicale ou ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1614.98" width="206.93" height="65.604"/>
+			<rect x="0" y="1582.18" width="206.929" height="65.604" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1596.98" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="7.21" dy="1.2em" class="st4">Message d&#39;erreur : Licence médicale ou </tspan><tspan x="10.28"
+						dy="1.2em" class="st4">licence de vol invalide pour le créneau </tspan><tspan x="85.73" dy="1.2em"
+						class="st4">horaire</tspan></text>		</g>
+		<g id="shape89-162" v:mID="89" v:groupContext="shape" transform="translate(527.528,-1125.68)">
+			<title>Action.89</title>
+			<desc>Vérification de la disponibilité de l&#39;appareil pour le crénea...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.299" cy="1629.38" width="212.6" height="36.8038"/>
+			<rect x="0" y="1610.98" width="212.598" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="26.17" y="1625.78" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de la disponibilité de <tspan
+						x="24.85" dy="1.2em" class="st4">l&#39;appareil pour le créneau horaire</tspan></text>		</g>
+		<g id="shape90-166" v:mID="90" v:groupContext="shape" transform="translate(245.48,-1007.82)">
+			<title>Action.90</title>
+			<desc>Erreur de réservation Message d&#39;erreur : Appareil indisponibl...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1622.18" width="206.93" height="51.2039"/>
+			<rect x="0" y="1596.58" width="206.929" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="4.82" dy="1.2em" class="st4">Message d&#39;erreur : Appareil indisponible </tspan><tspan x="45.96"
+						dy="1.2em" class="st4">pour le créneau horaire</tspan></text>		</g>
+		<g id="shape91-171" v:mID="91" v:groupContext="shape" transform="translate(527.528,-981.208)">
+			<title>Action.91</title>
+			<desc>Vérification de la disponibilité du formateur le créneau hora...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.299" cy="1629.38" width="212.6" height="36.8038"/>
+			<rect x="0" y="1610.98" width="212.598" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="26" y="1625.78" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Vérification de la disponibilité du <tspan
+						x="35.36" dy="1.2em" class="st4">formateur le créneau horaire</tspan></text>		</g>
+		<g id="shape92-175" v:mID="92" v:groupContext="shape" transform="translate(616.819,-903.118)">
+			<title>Décision.92</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape93-177" v:mID="93" v:groupContext="shape" transform="translate(245.48,-851.914)">
+			<title>Action.93</title>
+			<desc>Erreur de réservation Message d&#39;erreur : formateur ou étudian...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.465" cy="1622.18" width="206.93" height="51.2039"/>
+			<rect x="0" y="1596.58" width="206.929" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="51.48" y="1611.38" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Erreur de réservation<v:newlineChar/><tspan
+						x="23.76" dy="1.2em" class="st4">Message d&#39;erreur : formateur ou </tspan><tspan x="23.89" dy="1.2em"
+						class="st4">étudiant pour le créneau horaire</tspan></text>		</g>
+		<g id="shape95-182" v:mID="95" v:groupContext="shape" v:layerMember="0" transform="translate(633.827,-1297.31)">
+			<title>Lien dynamique.95</title>
+			<path d="M0 1647.78 L0 1619.61 L205.56 1619.61" class="st5"/>
+		</g>
+		<g id="shape96-185" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(626.74,-1246.11)">
+			<title>Lien dynamique.96</title>
+			<path d="M7.09 1647.78 L7.09 1672.54" class="st5"/>
+		</g>
+		<g id="shape97-188" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(640.913,-1187.33)">
+			<title>Lien dynamique.97</title>
+			<path d="M-7.09 1647.78 L-7.09 1672.62" class="st5"/>
+		</g>
+		<g id="shape98-191" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(626.74,-1125.68)">
+			<title>Lien dynamique.98</title>
+			<path d="M7.09 1647.78 L7.09 1679.01" class="st5"/>
+		</g>
+		<g id="shape99-194" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(640.913,-981.208)">
+			<title>Lien dynamique.99</title>
+			<path d="M-7.09 1647.78 L-7.09 1691.85" class="st5"/>
+		</g>
+		<g id="shape100-197" v:mID="100" v:groupContext="shape" transform="translate(616.819,-1060.44)">
+			<title>Décision.100</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 1647.78 L34.02 1630.77 L17.01 1613.76 L0 1630.77 L17.01 1647.78 Z" class="st1"/>
+		</g>
+		<g id="shape101-199" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(626.74,-1060.44)">
+			<title>Lien dynamique.101</title>
+			<path d="M7.09 1647.78 L7.09 1690.21" class="st5"/>
+		</g>
+		<g id="shape102-202" v:mID="102" v:groupContext="shape" transform="translate(636.661,-1043.15)">
+			<title>Feuille.102</title>
+			<desc>[disponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.0211" cy="1638.99" width="66.05" height="17.5748"/>
+			<rect x="0" y="1630.2" width="66.0422" height="17.5748" class="st6"/>
+			<text x="4" y="1642.59" class="st3" v:langID="1036"><v:paragraph/><v:tabList/>[disponible]</text>		</g>
+		<g id="shape105-205" v:mID="105" v:groupContext="shape" transform="translate(807.494,-775.606)">
+			<title>Nœud de jointure</title>
+			<desc>Validation de la réservation</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.8976" cy="1629.38" width="97.8" height="36.8038"/>
+			<rect x="0" y="1610.98" width="97.7953" height="36.8038" class="st1"/>
+			<text x="11.03" y="1625.78" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>Validation de la <tspan
+						x="21.11" dy="1.2em" class="st4">réservation</tspan></text>		</g>
+		<g id="shape107-209" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(831.942,-812.409)">
+			<title>Lien dynamique.107</title>
+			<path d="M0 1647.78 L0 1574.08 L-198.12 1574.08 L-198.12 1557.07" class="st5"/>
+		</g>
+		<g id="shape108-212" v:mID="108" v:groupContext="shape" transform="translate(605.48,-888.661)">
+			<title>Feuille.108</title>
+			<desc>[disponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="34.86" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[disponible]</text>		</g>
+		<g id="shape110-215" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(849.305,-747.78)">
+			<title>Lien dynamique.110</title>
+			<path d="M7.09 1647.78 L7.09 1619.95" class="st5"/>
+		</g>
+		<g id="shape111-218" v:mID="111" v:groupContext="shape" transform="translate(523.276,-1203.77)">
+			<title>Feuille.111</title>
+			<desc>[invalide]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="41.09" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[invalide]</text>		</g>
+		<g id="shape112-221" v:mID="112" v:groupContext="shape" transform="translate(634.066,-1175.63)">
+			<title>Feuille.112</title>
+			<desc>[valide]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.0211" cy="1638.99" width="66.05" height="17.5748"/>
+			<rect x="0" y="1630.2" width="66.0422" height="17.5748" class="st6"/>
+			<text x="4" y="1642.59" class="st3" v:langID="1036"><v:paragraph/><v:tabList/>[valide]</text>		</g>
+		<g id="shape113-224" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(616.819,-1204.34)">
+			<title>Lien dynamique.113</title>
+			<path d="M0 1647.78 L-267.87 1647.78 L-267.87 1670.8" class="st5"/>
+		</g>
+		<g id="shape114-227" v:mID="114" v:groupContext="shape" v:layerMember="0" transform="translate(616.819,-1077.45)">
+			<title>Lien dynamique.114</title>
+			<path d="M0 1647.78 L-267.87 1647.78 L-267.87 1666.2" class="st5"/>
+		</g>
+		<g id="shape115-230" v:mID="115" v:groupContext="shape" v:layerMember="0" transform="translate(616.819,-920.126)">
+			<title>Lien dynamique.115</title>
+			<path d="M0 1647.78 L-267.87 1647.78 L-267.87 1664.79" class="st5"/>
+		</g>
+		<g id="shape116-233" v:mID="116" v:groupContext="shape" transform="translate(1054.77,-1076.88)">
+			<title>Feuille.116</title>
+			<desc>[indisponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="30.33" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[indisponible]</text>		</g>
+		<g id="shape117-236" v:mID="117" v:groupContext="shape" transform="translate(513.665,-921.203)">
+			<title>Feuille.117</title>
+			<desc>[indisponible]</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="1638.99" width="127.56" height="17.5748"/>
+			<rect x="0" y="1630.2" width="127.559" height="17.5748" class="st6"/>
+			<text x="30.33" y="1642.59" class="st3" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>[indisponible]</text>		</g>
+	</g>
+</svg>
